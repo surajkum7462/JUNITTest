@@ -1,14 +1,14 @@
-package com.unittest;
-
-import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
-
-/**
- * Unit test for simple App.
- */
-public class AppTest 
-
-{
-
-}
+//package com.unittest;
+//
+//import junit.framework.Test;
+//import junit.framework.TestCase;
+//import junit.framework.TestSuite;
+//
+///**
+// * Unit test for simple App.
+// */
+//public class AppTest
+//
+//{
+//
+//}
